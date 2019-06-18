@@ -9,3 +9,6 @@ https://howdy39.github.io/google-picker-api-demo/
 
 ## Google 드라이브 API의 개발자 키가 올바르지 않습니다.
 [Google 드라이브 API의 개발자 키가 올바르지 않습니다.](https://stackoverrun.com/ko/q/12525842)
+
+## google-drive-sdk – Google 피커 및 백엔드 파일 다운로드
+[google-drive-sdk – Google 피커 및 백엔드 파일 다운로드](https://codeday.me/ko/qa/20190409/281774.html)
